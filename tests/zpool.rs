@@ -1,5 +1,6 @@
 use libzfs::Libzfs;
 #[test]
+#[ignore]
 fn zpool_list_test() {
     // this test assumes a pool called "test" exists
 

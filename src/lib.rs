@@ -1,4 +1,3 @@
-#![feature(custom_attribute)]
 extern crate prost;
 extern crate prost_derive;
 extern crate prost_types;
